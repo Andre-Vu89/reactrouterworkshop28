@@ -35,3 +35,7 @@ body > div {
   background-color: #275db3;
   color: white;
 }
+.home {
+  background: rgb(244,4,4);
+  background: linear-gradient(90deg, rgba(244,4,4,1) 0%, rgba(121,9,9,0.38139005602240894) 50%, rgba(0,31,255,0.9164040616246498) 100%);
+}
